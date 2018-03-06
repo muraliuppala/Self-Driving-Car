@@ -12,3 +12,9 @@ Udacity Self Driving Car Projects
 ### Convolutional Neural Networks
 1. [Convolutional Network in TensorFlow](https://github.com/muraliuppala/Self-Driving-Car/blob/master/Convolutional%20Neural%20Networks/1.Convolutional%20Network%20in%20TensorFlow.ipynb)
 2. [LeNet in TensorFlow](https://github.com/muraliuppala/Self-Driving-Car/blob/master/Convolutional%20Neural%20Networks/2.LeNet%20in%20TensorFlow.ipynb)
+
+### Keras
+1. [Classify MNIST Data using Keras - Simple Deep NN](https://github.com/muraliuppala/Self-Driving-Car/blob/master/Keras/1.Classify%20MNIST%20Data%20using%20Keras%20-%20Simple%20NN.ipynb)
+2. [Classify MNIST Data using Keras - CNN](https://github.com/muraliuppala/Self-Driving-Car/blob/master/Keras/2.Classify%20MNIST%20Data%20using%20Keras%20-%20CNN.ipynb)
+3. [Classify traffic sign images using Keras - Fully Connected Layers](https://github.com/muraliuppala/Self-Driving-Car/blob/master/Keras/3.Classify%20traffic%20sign%20images%20using%20Keras%20-%20Fully%20Connected%20Layers.ipynb)
+4. [Classify traffic sign images using Keras - Convolutional Layers](https://github.com/muraliuppala/Self-Driving-Car/blob/master/Keras/4.Classify%20traffic%20sign%20images%20using%20Keras%20-%20Convolutional%20Layers.ipynb)
